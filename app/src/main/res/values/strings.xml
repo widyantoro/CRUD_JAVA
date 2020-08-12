@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas_UAS_AKB_IF3_10117113</string>
+
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="waktubuka">Waktu Buka</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="submit">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
